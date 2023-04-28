@@ -33,6 +33,7 @@ h2 {
   background-color: #3a3838;
   color: #fff;
   padding: 50px;
+  margin: 0 auto;
 }
 
 .sobre h2 {
@@ -74,6 +75,7 @@ h2 {
   width: 100%; 
   margin-top: 30px; 
   margin-bottom: 30px;
+  
 }
 
 
@@ -138,6 +140,7 @@ h2 {
   background-color: #3a3838;
   color: #fff;
   padding: 10px;
+  margin: 0 auto;
 }
 
 .contato h2 {
