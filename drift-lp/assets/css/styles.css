@@ -3,14 +3,14 @@ body {
   text-align: center;
   font-size: 20px;
   line-height: 30px;
-  color: #000000;
-  margin-right: 30px;
-  margin-left: 30px;
+  color: #3a3838;
+  margin: 0;
 }
 
 h2 {
-  margin-top: 30px;
+  margin-top: 40px;
   margin-bottom: 20px;
+  font-size: 36px;
 }
 
 .button {
@@ -33,7 +33,6 @@ h2 {
   background-color: #3a3838;
   color: #fff;
   padding: 50px;
-  margin: 0 auto;
 }
 
 .sobre h2 {
@@ -61,6 +60,7 @@ h2 {
   font-style: italic;
   color: #3a3838;
   border-radius: 10px;
+  
 }
 
 .sobre blockquote p {
@@ -75,16 +75,16 @@ h2 {
   width: 100%; 
   margin-top: 30px; 
   margin-bottom: 30px;
-  
 }
 
 
 .servicos h2 {
   font-size: 36px;
   font-weight: bold;
-  margin-bottom: 30px;
+  margin: 30px 0px 30px 0px;
   padding: 30px;
   color: #1e1d1d;
+  
 }
 
 .servicos div {
@@ -92,6 +92,7 @@ h2 {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  font-size: 36px;
   
 }
 
@@ -140,7 +141,6 @@ h2 {
   background-color: #3a3838;
   color: #fff;
   padding: 10px;
-  margin: 0 auto;
 }
 
 .contato h2 {
@@ -149,6 +149,7 @@ h2 {
   margin-bottom: 30px;
   padding: 30px;
 }
+
 
 form {
   display: flex;
